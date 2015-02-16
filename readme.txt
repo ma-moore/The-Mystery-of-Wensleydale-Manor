@@ -3,8 +3,8 @@ Welcome to The Mystery of Wensleydale Manor
 You just woke up in a grave in a swamp. Who are you and where are you? Ask around and find out!
 
 Controls
--Arrow keys to walk around
--Space bar to interact
+	Arrow keys to walk around
+	Space bar to interact
 
 Install files
 	Install-win32 - for Windows 32 bit systems
